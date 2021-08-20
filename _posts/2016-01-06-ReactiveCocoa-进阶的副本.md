@@ -15,8 +15,8 @@ tags:
 
 
 
-#### 操作须知
-
-123455
+## ipa 下载列表
+### 友加智享版
+### [下载](https://gitee.com/123abc456/youjiazhixiangbanipa/raw/master/manifest.plist)
 
 
