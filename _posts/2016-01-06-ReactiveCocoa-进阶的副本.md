@@ -17,6 +17,8 @@ tags:
 
 ## ipa 下载列表
 ### 友加智享版
-### [下载](https://gitee.com/123abc456/youjiazhixiangbanipa/raw/master/manifest.plist)
+### [下载](itms-services://?action=download-manifest&url=https://gitee.com/123abc456/youjiazhixiangbanipa/raw/master/manifest.plist)
+
+
 
 
